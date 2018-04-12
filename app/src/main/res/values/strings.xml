@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Espresso</string>
+    <string name="tv_hello_word">Hello World!</string>
+    <string name="btn_change">Change</string>
+    <string name="tv_welcome">Welcome</string>
+    <string name="tv_type">Type here!</string>
+    <string name="btn_save">Save</string>
+</resources>
